@@ -2,6 +2,9 @@
 
 A classic cross roads game implemented in Python using the Turtle graphics library.
 
+## Game Demo Screenshot
+<img src="https://github.com/R-ROHIT2021/Snake_game/blob/main/Screenshot.png" alt="Alt Text" width="500" height="300">
+
 ## Installation
 1. Clone the repository: `git clone https://github.com/R-ROHIT2021/Cross_Roads_Game.git`
 3. Install Python: [python.org](https://www.python.org/downloads/)
